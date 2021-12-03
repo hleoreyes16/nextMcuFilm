@@ -3,4 +3,4 @@
     #Expo CLI
     #React-Native
     #whenisthenextmcufilm api
-    ![Alt text](/images/preview.jpg? | width=100)
+    ![Alt text](/images/preview.jpg?)
