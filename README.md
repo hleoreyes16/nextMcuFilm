@@ -3,4 +3,4 @@
     #Expo CLI
     #React-Native
     #whenisthenextmcufilm app
-![Alt text](/images/preview.jpg? "Preview" | width=200, height=400)
+![Alt text](/images/preview.jpg=200x400 "Preview")
