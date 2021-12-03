@@ -3,4 +3,5 @@
     #Expo CLI
     #React-Native
     #whenisthenextmcufilm api
-    ![Alt text](/images/preview.jpg?)
+    <!-- ![Alt text](/images/preview.jpg?) -->
+    <img src="/images/preview.jpg" alt="drawing" width="200"/>
