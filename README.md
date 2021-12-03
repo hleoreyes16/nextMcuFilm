@@ -3,7 +3,4 @@
     #Expo CLI
     #React-Native
     #whenisthenextmcufilm api
-
-   <div style="width: 60%; height: 60%">
     ![Alt text](/images/preview.jpg=10x20 "Preview"){:height="200px" width="100px"}
-    </div> 
